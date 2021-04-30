@@ -1,0 +1,1 @@
+El complador que utilizo para programar en C es gcc
